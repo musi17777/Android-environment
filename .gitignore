@@ -1,0 +1,21 @@
+# קבצים שנוצרים אוטומטית על ידי Android Studio
+.gradle/
+local.properties
+/.idea/
+*.iml
+
+# קבצים ותיקיות Build
+/build/
+/app/build/
+.externalNativeBuild
+.cxx
+
+# קבצים תלויי מערכת הפעלה
+.DS_Store
+Thumbs.db
+
+# תיקיות Captures (שימוש באמולטור)
+captures/
+
+# תיקונים לכפילויות
+# הימנעות מלהוסיף כפילויות מיותרות.
